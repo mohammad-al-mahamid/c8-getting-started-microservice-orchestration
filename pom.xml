@@ -23,7 +23,7 @@
 	    <artifactId>zeebe-client-java</artifactId>
 	    <version>8.3.0</version>
   	</dependency>
-	<dependency>
+<!--	<dependency>
 	    <groupId>org.apache.logging.log4j</groupId>
 	    <artifactId>log4j-api</artifactId>
 	    <version>2.19.0</version>
@@ -37,7 +37,7 @@
 	    <groupId>org.apache.logging.log4j</groupId>
 	    <artifactId>log4j-slf4j-impl</artifactId>
 	    <version>2.19.0</version>
-	</dependency>
+	</dependency>-->
   </dependencies>
 
   <build>
